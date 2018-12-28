@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed-essam100/CLionProjects/Paging_and_Replacement/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

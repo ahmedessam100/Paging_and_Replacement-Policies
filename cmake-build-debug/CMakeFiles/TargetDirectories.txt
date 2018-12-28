@@ -1,0 +1,3 @@
+/home/ahmed-essam100/CLionProjects/Paging_and_Replacement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmed-essam100/CLionProjects/Paging_and_Replacement/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmed-essam100/CLionProjects/Paging_and_Replacement/cmake-build-debug/CMakeFiles/Paging_and_Replacement.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Paging_and_Replacement.dir/main.c.o CMakeFiles/Paging_and_Replacement.dir/Policy.c.o  -o Paging_and_Replacement 
